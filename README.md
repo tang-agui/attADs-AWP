@@ -12,8 +12,8 @@ Our code was built on [Pytorch](https://pytorch.org/).
 - This is a subset of DOTA with Adversarail Weather Perturbations (DOTA-AWP) by our proposed method.
 - DOTA-AWP is provided for reproducing our results.
 - DOTA-AWP serves as a potential benchmark to evaluate the robustness of Optical Aerial Detectors (OAD). Also, it can be act as a  promising and effective data augmentation method for model training, ultimately improving the robustness of DNNs.
-- DOTA-AWP is partially generated from [DOTA v1.0](https://captain-whu.github.io/DOTA/dataset.html) validation set with 1k samples.
-- 
+- DOTA-AWP is built upon the subset of [DOTA v1.0](https://captain-whu.github.io/DOTA/dataset.html) validation set with 1k samples.
+
 ## References
 - [DOTA](https://captain-whu.github.io/DOTA/code.html)
 - [Download](https://pan.baidu.com/s/1_RLu3vT6ri3yzfrLixZQMA), password: DAWP.
