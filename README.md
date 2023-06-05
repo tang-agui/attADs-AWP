@@ -7,7 +7,10 @@ This paper proposes a novel method for conducting adversarial attacks against op
 Our code was built on [Pytorch](https://pytorch.org/).
 
 ## Usage
-
+Run
+```
+python TFNS.py.
+You need replace the weightfile in `TFNS.py` and `TDE_main_hybrid.py` with yours. 
 ## DOTA-W
 - This is a subset of DOTA with adversarail *weather* perturbations (DOTA-W) by our proposed method.
 - DOTA-W is provided for reproducing our results.
