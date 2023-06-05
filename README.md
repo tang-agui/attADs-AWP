@@ -8,9 +8,9 @@ Our code was built on [Pytorch](https://pytorch.org/).
 
 ## Usage
 Run
-```
-python TFNS.py.
-You need replace the weightfile in `TFNS.py` and `TDE_main_hybrid.py` with yours. 
+`python TFNS.py.`
+
+You need to replace the weightfile in `TFNS.py` and `TDE_main_hybrid.py` with your weight files. 
 
 ## DOTA-W
 - This is a subset of DOTA with adversarail *weather* perturbations (DOTA-W) by our proposed method.
