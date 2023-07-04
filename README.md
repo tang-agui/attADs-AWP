@@ -17,7 +17,8 @@ You need to replace the weightfile in `TFNS.py` and `TDE_main_hybrid.py` with yo
 - DOTA-W is provided for reproducing our results.
 - DOTA-W serves as a potential benchmark to evaluate the robustness of Optical Aerial Detectors (OAD). Also, it can be act as a  promising and effective data augmentation method for model training, ultimately improving the robustness of DNNs.
 - DOTA-W is built upon the subset of [DOTA v1.0](https://captain-whu.github.io/DOTA/dataset.html) validation set with 1k samples.
+- [Download](https://pan.baidu.com/s/1_RLu3vT6ri3yzfrLixZQMA), password: DAWP.
 
 ## References
 - [DOTA](https://captain-whu.github.io/DOTA/code.html)
-- [Download](https://pan.baidu.com/s/1_RLu3vT6ri3yzfrLixZQMA), password: DAWP.
+
